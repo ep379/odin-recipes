@@ -1,0 +1,25 @@
+body {
+    font-family: Helvetica, "Times New Roman";
+    background: #eee;
+
+}
+
+.card {
+    background: white;
+    padding: 8px;
+    margin: 16px auto;
+    width: 400px;
+}
+
+ul{
+    margin-top: 0;
+    margin-bottom: 0;
+    background: #e3f4ff;
+    font-weight: bold;
+}
+
+h1{
+    background: #e3f4ff;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
